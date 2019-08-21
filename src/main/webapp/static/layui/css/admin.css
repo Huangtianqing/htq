@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#mydiv{
+  margin: auto;
+  margin-top: 150px;
+  background-color: rgba(62,157,213,0.3);
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #1D78BC;
+}
+label{
+   font-size: 25px;
+}
+input[type]{
+   font-size: 25px;
+   line-height: 25px;
+   width: 200px;
+}
+#div2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+input[type = "submit"]{
+   font-size: 20px;
+}
